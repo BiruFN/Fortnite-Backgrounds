@@ -37,7 +37,7 @@
 | 22.10 | https://cdn2.unrealengine.com/t-bp22-lobby-square-2048x2048-2048x2048-e4e90c6e8018.jpg |
 | 22.20 | https://cdn2.unrealengine.com/t-bp22-fortnitemares-lobby-square-2048x2048-2048x2048-3b7cda3aa517.jpg |
 | 22.30 | https://cdn2.unrealengine.com/t-bp22-lobby-square-2048x2048-2048x2048-e4e90c6e8018.jpg |
-| 22.40 | null |
+| 22.40 |  |
 
 # Season23 Backgrounds
 | Season | Link |
