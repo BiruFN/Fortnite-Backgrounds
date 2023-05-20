@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 | 19.00 |  |
 | 19.01 | https://cdn2.unrealengine.com/t-bp19-lobby-xmas-2048x1024-f85d2684b4af.png |
-| 19.10 | idk |
+| 19.10 | (Tilted Towers Returns) ;please let me know if anyone has |
 | 19.20 |  |
 | 19.30 |  |
 | 19.40 |  |
